@@ -1,7 +1,9 @@
 # Media-Session-API-wavesurfer-js
 
-Preview:
+<b>Preview:</b>
 http://codepen.io/entonbiba/pen/GrdaoK
+
+<img src="preview_wavesurfer_media_session_api.png" />
 
 WaveSurfer.js:
 https://github.com/katspaugh/wavesurfer.js
