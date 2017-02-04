@@ -10,3 +10,7 @@ https://github.com/katspaugh/wavesurfer.js
 
 Media Session API:
 https://wicg.github.io/mediasession/
+
+Follow Me:<br/>
+https://github.com/entonbiba<br/>
+http://www.entonbiba.com/
