@@ -3,7 +3,7 @@
 <b>Preview:</b>
 http://codepen.io/entonbiba/pen/GrdaoK
 
-<img src="preview_wavesurfer_media_session_api.png" />
+<img src="wavesurfer_media_session_api_preview.png" />
 
 WaveSurfer.js:
 https://github.com/katspaugh/wavesurfer.js
